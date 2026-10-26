@@ -1,0 +1,7 @@
+Handle,Title,Body (HTML),Vendor,Type,Tags,Published,Option1 Name,Option1 Value,Option2 Name,Option2 Value,Option3 Name,Option3 Value,Variant SKU,Variant Grams,Variant Inventory Tracker,Variant Inventory Qty,Variant Inventory Policy,Variant Fulfillment Service,Variant Price,Variant Compare At Price,Variant Requires Shipping,Variant Taxable,Image Src,Image Position,Variant Image,Status
+ceramic-coffee-mug,Ceramic Coffee Mug,"<p>Handmade ceramic mug, dishwasher safe.</p>",Demo Store,Mugs,"gift, ceramic, Mugs",TRUE,Title,Default Title,,,,,MUG-01,400,shopify,25,deny,manual,14.90,,TRUE,TRUE,https://example.com/img/mug-1.jpg,1,,active
+ceramic-coffee-mug,,,,,,,,,,,,,,,,,,,,,,,https://example.com/img/mug-2.jpg,2,,
+organic-cotton-t-shirt,Organic Cotton T-Shirt,<p>100% organic cotton.</p>,Demo Store,T-Shirts,"organic, T-Shirts",TRUE,Size,S,Color,White,,,TEE-S-WHT,200,shopify,10,deny,manual,19.00,24.00,TRUE,TRUE,https://example.com/img/tee.jpg,1,https://example.com/img/tee-white.jpg,active
+organic-cotton-t-shirt,,,,,,,,M,,Black,,,TEE-M-BLK,200,shopify,5,deny,manual,24.00,,TRUE,TRUE,https://example.com/img/tee-white.jpg,2,https://example.com/img/tee-black.jpg,
+organic-cotton-t-shirt,,,,,,,,L,,Black,,,TEE-L-BLK,200,shopify,0,continue,manual,24.00,,TRUE,TRUE,https://example.com/img/tee-black.jpg,3,,
+brewing-guide-pdf,Brewing Guide (PDF),<p>40-page PDF.</p>,Demo Store,Guides,"digital, Guides",FALSE,Title,Default Title,,,,,EBOOK-1,,,,deny,manual,9.00,,FALSE,FALSE,,,,draft

@@ -1,0 +1,8 @@
+ID,Type,SKU,Name,Published,Short description,Description,Tax status,Backorders allowed?,Stock,Weight (kg),Sale price,Regular price,Categories,Tags,Images,Parent,Attribute 1 name,Attribute 1 value(s),Attribute 2 name,Attribute 2 value(s)
+101,simple,MUG-01,Ceramic Coffee Mug,1,Classic 350 ml mug,"<p>Handmade ceramic mug, dishwasher safe.</p>",taxable,0,25,0.4,,14.90,Kitchen > Mugs,"gift, ceramic","https://example.com/img/mug-1.jpg, https://example.com/img/mug-2.jpg",,,,,
+102,variable,TEE,Organic Cotton T-Shirt,1,Soft organic tee,"<p>100% organic cotton.</p>",taxable,0,,0.2,,,Clothing > T-Shirts,organic,"https://example.com/img/tee.jpg",,Size,"S, M, L",Color,"White, Black"
+103,variation,TEE-S-WHT,Organic Cotton T-Shirt - S White,1,,,taxable,0,10,0.2,19.00,24.00,,,https://example.com/img/tee-white.jpg,id:102,Size,S,Color,White
+104,variation,TEE-M-BLK,Organic Cotton T-Shirt - M Black,1,,,taxable,0,5,0.2,,24.00,,,https://example.com/img/tee-black.jpg,id:102,Size,M,Color,Black
+105,variation,TEE-L-BLK,Organic Cotton T-Shirt - L Black,1,,,taxable,notify,0,0.2,,24.00,,,,TEE,Size,L,Color,Black
+106,"simple, virtual",EBOOK-1,Brewing Guide (PDF),0,Digital guide,<p>40-page PDF.</p>,none,0,,,,9.00,Guides,digital,,,,,,
+107,variation,ORPHAN-1,Lost Variation,1,,,taxable,0,1,,,5.00,,,,id:999,Size,S,,
